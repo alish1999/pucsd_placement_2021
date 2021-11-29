@@ -1,0 +1,8 @@
+13, 21, 31, 47, 61, 85
+
+n=13: The 13 th fibonacci number is 233 
+n=21: The 21 th fibonacci number is 10946 
+n=31: The 31 th fibonacci number is 1346269
+n=47: The 47 th fibonacci number is 2971215073
+n=61: The 61 th fibonacci number is 2504730781961
+n=85: The 85 th fibonacci number is 259695496911122585 
