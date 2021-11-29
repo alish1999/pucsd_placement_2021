@@ -1,0 +1,8 @@
+3, 10, 22, 26
+n=3 : The 3 th even fibonacci number is 34 
+
+n=10 : The 10 th even fibonacci number is 832040 
+
+n=22 : The 22 th even fibonacci number is 27777890035288 
+
+n=26 : The 26 th even fibonacci number is 8944394323791464 
