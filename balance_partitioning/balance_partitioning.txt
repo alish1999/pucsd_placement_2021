@@ -1,0 +1,6 @@
+Calculate the balance partition for N as 50, 1000, 10000, 100000
+
+n=50 : Partition at 35
+n=1000 : Partition at 707
+n=10000 : Partition at 7071
+n=100000 : Partition at 53409
